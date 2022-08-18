@@ -1,0 +1,22 @@
+[
+  {
+    "name": "shahid",
+    "numOfShares": 2,
+    "priceOfShare" : 20
+  },
+  {
+    "name" : "samir",
+    "numOfShares": 1,
+    "priceOfShare" : 30
+  },
+  {
+    "name" : "ravi",
+    "numOfShares": 2,
+    "priceOfShare" : 10
+  },
+  {
+    "name" : "Shahid samir ravi",
+    "numOfShares": 5,
+    "priceOfShare": 90
+  }
+]
